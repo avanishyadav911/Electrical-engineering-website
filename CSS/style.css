@@ -34,22 +34,6 @@ p{
     
    
 }
-.header:before {
-    content: " ";
-    position: absolute;
-    top: 0%;
-    bottom: 0%;
-    left: 0;
-    right: 0;
-}
-.navbar:before {
-    content: " ";
-    position: absolute;
-    top: 0%;
-    bottom: 0%;
-    left: 0;
-    right: 0;
-}
 .nav-item a{
     color: black;
 }
