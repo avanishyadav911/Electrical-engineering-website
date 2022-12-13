@@ -32,9 +32,6 @@ p{
     background-size: cover;
     position: relative;
 
-    
-    
-   
 }
 .nav-item a{
     color: black;
@@ -133,7 +130,7 @@ p{
     -webkit-transform: translate(-50%, -50%);
 }
 .header-button a{
-    color: black;
+    color: #fff;
     border: 1px solid #fff;
     border-radius: 100px;
     margin: 0 5px;
@@ -145,7 +142,8 @@ p{
     text-align: center;
 }
 .header-button a:hover{
-    background-color: #fff;
+    color: #fff;
+    background-color: black;
 }
 /*********************extra header div css start***********/
 .header-extradiv{
@@ -215,19 +213,14 @@ p{
     }
    
 }
-@media screen and (max-width: 990px){
-    .row{
-        display: flex;
-        flex-direction: row;
-    }
-    .extra-div{
-        width: 60%;
-    }
-}
-@media screen and (max-width: 750px){
+
+@media screen and (max-width: 500px){
   .header{
-    background-size: cover ;
-   
-    
+   background-image: url(../images/header3.jpg);
+   background-size: contain;
+   background-color: black;
+  }
+  .header-section{
+   height: 95vh;
   }
 }
