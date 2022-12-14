@@ -232,4 +232,8 @@ p{
     .header-section{
         height: 81vh;
     }
+    .footers-parts{
+        margin: 0;
+        padding: 0;
+    }
 }
