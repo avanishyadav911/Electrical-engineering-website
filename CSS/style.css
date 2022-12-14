@@ -182,6 +182,10 @@ p{
 
 
 /*********************extra header div css end***********/
+.footers-parts{
+    margin: 0;
+    padding: 0;
+}
 .carusal-sec{
     margin: 40px 40px;
 }
