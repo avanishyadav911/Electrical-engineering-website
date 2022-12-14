@@ -224,7 +224,7 @@ p{
    height: 95vh;
   }
 }
-@media screen and (max-width: 315px){
+@media screen and (max-width: 355px){
     .header-section{
         height: 87vh;
     }
