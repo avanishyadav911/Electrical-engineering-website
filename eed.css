@@ -131,7 +131,7 @@ header.header-active .navbar a{
 
 .home{
     min-height: 44vh;
-    background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url(images1/main page.jpg) no-repeat;
+    background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url("images1/main page.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
