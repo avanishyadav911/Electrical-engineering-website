@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .section{
-    background-image: url("../images/mainbg.jpg");
+    background-image: url("teamimages/mainbg.jpg");
     width: 100%;
     height: auto;
     padding: 60px 30px;
@@ -54,115 +54,115 @@
 }
 
 .card1 {
-    background: url("../teamimg/nitin.png");
+    background: url("teamimg/nitin.png");
     background-size: cover;
     background-position: center;
 }
 
 .card2 {
-    background: url("../teamimg/amanraj.png");
+    background: url("teamimg/amanraj.png");
     background-size: cover;
     background-position: center;
 }
 
 .card3 {
-    background: url("../teamimg/amardeep.png");
+    background: url("teamimg/amardeep.png");
     background-size: cover;
     background-position: center;
 }
 
 .card4 {
-    background: url("../images/divyansh.png");
+    background: url("teamimages/divyansh.png");
     background-size: cover;
     background-position: center;
 }
 
 .card5 {
-    background: url("../teamimg/shubham.png");
+    background: url("teamimg/shubham.png");
     background-size: cover;
     background-position: center;
 }
 
 .card6 {
-    background: url("../teamimg/tushar.png");
+    background: url("teamimg/tushar.png");
     background-size: cover;
     background-position: center;
 }
 
 .card7 {
-    background: url("../teamimg/amansingh.png");
+    background: url("teamimg/amansingh.png");
     background-size: cover;
     background-position: center;
 }
 
 .card8 {
-    background: url("../teamimg/dhruv.png");
+    background: url("teamimg/dhruv.png");
     background-size: cover;
     background-position: center;
 }
 
 .card9 {
-    background: url("../teamimg/sheuli.png");
+    background: url("teamimg/sheuli.png");
     background-size: cover;
     background-position: center;
 }
 
 .card10 {
-    background: url("../teamimg/devang.png");
+    background: url("teamimg/devang.png");
     background-size: cover;
     background-position: center;
 }
 
 .card11 {
-    background: url("../teamimg/aditya.png");
+    background: url("teamimg/aditya.png");
     background-size: cover;
     background-position: center;
 }
 
 .card12 {
-    background: url("../teamimg/arush.png");
+    background: url("teamimg/arush.png");
     background-size: cover;
     background-position: center;
 }
 
 .card13 {
-    background: url("../teamimg/swetasingh.png");
+    background: url("teamimg/swetasingh.png");
     background-size: cover;
     background-position: center;
 }
 
 .card14 {
-    background: url("../teamimg/UTA.png");
+    background: url("teamimg/UTA.png");
     background-size: cover;
     background-position: center;
 }
 
 .card15 {
-    background: url("../teamimg/ut.png");
+    background: url("teamimg/ut.png");
     background-size: cover;
     background-position: center;
 }
 
 .card16 {
-    background: url("../teamimg/anushka.png");
+    background: url("teamimg/anushka.png");
     background-size: cover;
     background-position: center;
 }
 
 .card17 {
-    background: url("../teamimg/anupama.png");
+    background: url("teamimg/anupama.png");
     background-size: cover;
     background-position: center;
 }
 
 .card18 {
-    background: url("../teamimg/rinki.png");
+    background: url("teamimg/rinki.png");
     background-size: cover;
     background-position: center;
 }
 
 .card19 {
-    background: url("../teamimg/aks2.png");
+    background: url("teamimg/aks2.png");
     background-size: cover;
     background-position: center;
 }
