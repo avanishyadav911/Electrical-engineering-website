@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.logo{
+    margin-left: 50px;
+}
 .section{
     background-image: url("teamimages/mainbg.jpg");
     width: 100%;
