@@ -215,3 +215,21 @@ a h1{
     border: thick solid yellowgreen;
     border-radius: 50px;
 }
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.container2 a{
+    position: relative;
+    display: inline-block;
+    color: #ffffff;
+    border: 1px solid #040a29;
+    background: #000000dd;
+    margin: 10px 57px;
+    border-radius: 10px;
+}
+.container2 a:hover{
+    transform: scale(1.1);
+}
