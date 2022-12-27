@@ -101,7 +101,7 @@ body{font-family: 'Montserrat' sans-serif;
 
 .content-banner{color: #ffffff;
 background-image: url(images1/header.jpg);
-min-height:700px;
+min-height:750px;
 height:100%;
 position: relative;
 background-position: center center;
@@ -122,7 +122,7 @@ font-weight: 400;
 line-height: 1.2;
 position: relative;
 z-index: 2;
- margin-top: 200px;}
+ margin-top: 250px;}
 
 .content-banner .banner-des{font-size: 12px;
 line-height: 150%;
