@@ -101,12 +101,12 @@ body{font-family: 'Montserrat' sans-serif;
 
 .content-banner{color: #ffffff;
 background-image: url(images1/header.jpg);
-min-height:750px;
+min-height:770px;
 height:100%;
 position: relative;
 background-position: center center;
 background-size: cover;
-padding-top: 125px;
+padding-top: 98px;
 }
 
 .content-banner:before{position:absolute;
