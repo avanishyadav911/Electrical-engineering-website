@@ -9,6 +9,15 @@ body{font-family: 'Montserrat' sans-serif;
 		display: block !important;}
        
 }
+@media screen and (min-width: 1100px){
+    .carousel-inner .carousel-item{
+        padding: 0 280px;
+    }
+    .carousel-control-next {
+        right: 222px;}
+        .carousel-control-prev {
+            left: 222px;}
+}
 
 @media only screen and (max-width:992px){
 	.header-inner{background-color: #000000dd!important;
