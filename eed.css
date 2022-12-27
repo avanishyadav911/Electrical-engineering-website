@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
 
 :root{
-    --orange:#ff9f1a;
+    --orange:#8f065a;
 }
 @media only screen and (max-width:500px){
     .home h1{
@@ -276,7 +276,7 @@ header.header-active .navbar a{
 .trainer{
     min-height: 100vh;
     text-align: center;
-    background:#333;
+    background:#000000dd;
 }
 
 .trainer .heading{
